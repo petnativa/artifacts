@@ -4,7 +4,7 @@
 
     <groupId>com.elevenchimps</groupId>
     <artifactId>jungle-utils</artifactId>
-    <version>1.0.14-SNAPSHOT</version>
+    <version>1.0.14</version>
     <packaging>jar</packaging>
 
     <name>jungle-utils</name>
